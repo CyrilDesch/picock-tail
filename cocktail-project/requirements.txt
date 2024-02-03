@@ -1,0 +1,8 @@
+################################################################################
+# Package requirements
+# All versions are latest viable at date of package version release
+################################################################################
+
+tortoise-orm==0.20.0
+tortoise-orm[asyncmy]==0.20.0
+smbus
